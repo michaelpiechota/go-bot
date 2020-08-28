@@ -1,1 +1,1 @@
-# go-troll
+# go-bot
